@@ -14,6 +14,8 @@ function App() {
       <button onClick={() => setBreakBulb(!breakBulb)}>
         {breakBulb ? `Fix the Bulb` : `Break the Bulb`}
       </button>
+      <h1>Made by Shoaib Tahir</h1>
+      
     </div>
   );
 }
